@@ -1,16 +1,14 @@
 # flutter_screenshot_share
 
-A new Flutter project.
+スクリーンショットをシェアするサンプルコード
 
-## Getting Started
+解説記事（Qiita）
 
-This project is a starting point for a Flutter application.
+https://qiita.com/sakatech-jp/items/eed16b954cf94c1b879c
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+実行方法
+```
+$ git clone https://github.com/sakatech-jp/flutter_screenshot_share.git
+$ cd flutter_screenshot_share
+$ flutter run
+```
